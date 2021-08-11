@@ -101,9 +101,9 @@
     "react-redux": "^7.2.4",
     "react-select": "4.3.1",
     "react-string-replace": "0.4.4",
-    "remark-breaks": "2.0.2",
-    "remark-gemoji": "6.0.0",
-    "remark-gfm": "1.0.0",
+    "remark-breaks": "3.0.1",
+    "remark-gemoji": "7.0.0",
+    "remark-gfm": "2.0.0",
     "simple-markdown": "0.7.3",
     "ts-mongoose": "0.0.24",
     "twemoji": "13.1.0"
