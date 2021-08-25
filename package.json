@@ -74,7 +74,7 @@
     "@badrap/bar-of-progress": "0.1.2",
     "@kachkaev/react-inline-js": "0.2.0",
     "@reduxjs/toolkit": "^1.6.1",
-    "@sentry/nextjs": "6.9.0",
+    "@sentry/nextjs": "6.11.0",
     "@tailwindcss/forms": "0.3.3",
     "@types/highlight.js": "10.1.0",
     "axios": "0.21.1",
