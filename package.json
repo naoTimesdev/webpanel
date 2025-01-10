@@ -69,7 +69,7 @@
     "@badrap/bar-of-progress": "0.2.1",
     "@kachkaev/react-inline-js": "0.4.0",
     "@prisma/client": "4.4.0",
-    "@sentry/nextjs": "7.14.2",
+    "@sentry/nextjs": "7.120.3",
     "axios": "1.1.0",
     "cors": "2.8.5",
     "framer-motion": "7.5.2",
