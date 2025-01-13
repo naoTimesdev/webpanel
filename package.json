@@ -53,7 +53,7 @@
     "eslint-config-next": "12.3.1",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-react": "7.31.8",
+    "eslint-plugin-react": "7.37.4",
     "postcss": "8.4.17",
     "postcss-extend": "1.0.5",
     "postcss-flexbugs-fixes": "5.0.2",
